@@ -1,6 +1,6 @@
 # Random Compliment Generator ✨
 
-A lighthearted Python terminal program that gives you random compliments whenever you need a boost.
+A lighthearted Python terminal program that gives you random compliments whenever you need a boost. Hope you will like it! <3
 
 ## Features
 - Get a new random compliment on command
