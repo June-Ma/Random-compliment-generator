@@ -30,3 +30,5 @@ n = new compliment | f = favourite | v = view favourites | q = quit
 
 Command: n
 ✨ You handle chaos with O(1) elegance.
+
+Easy, right?
